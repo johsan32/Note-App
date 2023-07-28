@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.list ul li{
+  text-decoration: none;
+  list-style: none;
+  text-transform: capitalize;
+}
